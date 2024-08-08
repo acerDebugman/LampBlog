@@ -1,0 +1,2 @@
+# LampBlog
+just blog
